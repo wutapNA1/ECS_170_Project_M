@@ -1,0 +1,8 @@
+# normalise line endings: keep LF in the repository, check out native endings
+* text=auto
+
+# binary artefacts that must not be converted
+*.png binary
+*.docx binary
+*.pkl binary
+result/stage_2_result/*_None binary

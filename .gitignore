@@ -1,0 +1,23 @@
+# ---- Python ------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- editors / OS ------------------------------------------------------------
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- scratch files of the experiments ---------------------------------------
+_tmp_*
+*.log
+
+# ---- the written report is submitted separately (Canvas) --------------------
+Stage_2_Report.docx
+
+# ---- local copies of the data sets (download them separately, see README) ---
+data/stage_2_data/
+data/*.csv

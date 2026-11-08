@@ -1,0 +1,7 @@
+# third-party packages needed by the Stage 2 scripts
+# (install with: pip install -r requirements.txt)
+
+torch>=2.0          # neural network, CPU or CUDA/ROCm build
+numpy>=1.24         # data handling
+scikit-learn>=1.3   # decision tree, SVM and the classification metrics
+Pillow>=9.0         # fallback renderer for the learning curves
