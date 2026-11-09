@@ -1,0 +1,4 @@
+dataset,config,accuracy,precision,recall,f1,params
+MNIST,baseline,0.9931,0.9931,0.9931,0.9931,421834
+ORL,baseline,0.9750,0.9625,0.9750,0.9667,2557192
+CIFAR,baseline,0.7961,0.7995,0.7961,0.7967,620810
